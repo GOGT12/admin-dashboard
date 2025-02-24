@@ -1,0 +1,20 @@
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <!-- Dog Head -->
+    <circle cx="15" cy="15" r="10" fill="pink" stroke="black" stroke-width="1"/>
+
+    <!-- Left Ear -->
+    <ellipse cx="6" cy="12" rx="4" ry="6" fill="pink" stroke="black" stroke-width="1"/>
+
+    <!-- Right Ear -->
+    <ellipse cx="24" cy="12" rx="4" ry="6" fill="pink" stroke="black" stroke-width="1"/>
+
+    <!-- Eyes -->
+    <circle cx="12" cy="14" r="1.5" fill="black"/>
+    <circle cx="18" cy="14" r="1.5" fill="black"/>
+
+    <!-- Nose -->
+    <circle cx="15" cy="18" r="1.5" fill="black"/>
+
+    <!-- Mouth -->
+    <path d="M 14 19 Q 15 22, 16 19" stroke="black" stroke-width="1" fill="none"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30" height="30">
+  <!-- Task List Outline -->
+  <rect x="4" y="4" width="16" height="16" stroke="white" stroke-width="2" fill="none" rx="2"/>
+
+  <!-- Checkmarks (corregidos, sin intersecciones) -->
+  <path d="M7 9L9 11L12 7" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M7 15L9 17L12 13" stroke="white" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Task Lines -->
+  <line x1="14" y1="9" x2="19" y2="9" stroke="white" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14" y1="15" x2="19" y2="15" stroke="white" stroke-width="1" stroke-linecap="round"/>
+</svg>

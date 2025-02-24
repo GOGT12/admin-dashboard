@@ -1,0 +1,21 @@
+<svg width="30" height="30" viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+    <!-- Cat Head -->
+    <circle cx="15" cy="15" r="10" fill="yellow" stroke="black" stroke-width="1"/>
+
+    <!-- Left Ear -->
+    <polygon points="8,5 12,2 13,8" fill="yellow" stroke="black" stroke-width="1"/>
+
+    <!-- Right Ear -->
+    <polygon points="22,5 18,2 17,8" fill="yellow" stroke="black" stroke-width="1"/>
+
+    <!-- Eyes -->
+    <circle cx="12" cy="14" r="1.5" fill="black"/>
+    <circle cx="18" cy="14" r="1.5" fill="black"/>
+
+    <!-- Nose -->
+    <circle cx="15" cy="17" r="1" fill="black"/>
+
+    <!-- Mouth -->
+    <path d="M 14 18 Q 15 20, 16 18" stroke="black" stroke-width="1" fill="none"/>
+</svg>
+
